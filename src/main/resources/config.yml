@@ -1,0 +1,22 @@
+chat-format:
+  enabled: true
+  format: '%player% &8&l» %message%'
+command-disabler:
+  - ?
+  - pl
+  - plugins
+  - rl
+  - about
+  - ver
+  - version
+  - help
+  - reload
+  - bukkit:pl
+  - bukkit:ver
+  - bukkit:version
+  - bukkit:plugins
+  - bukkit:help
+  - bukkit:?
+  - bukkit:about
+  - bukkit:rl
+  - bukkit:reload

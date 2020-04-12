@@ -1,0 +1,20 @@
+name: AngelCore
+version: ${project.version}
+main: me.angelcore.Main
+api-version: 1.13
+authors: [Angelo753]
+commands:
+  angelcore:
+  back:
+  fly:
+  home:
+  homes:
+  sethome:
+  setwarp:
+  spawn:
+  speed:
+  tp:
+  tpa:
+  tpaccept:
+  warp:
+  warps:
